@@ -1,3 +1,15 @@
+Link publico: https://crud-firestore-7d7b2.web.app/admin
+
+
+• CRUD desarrollado con Firebase.
+• Sistema de registro y autenticacion de usuarios.
+• Manejo de sesiones de usuario.
+• Recupero de contraseñas.
+• Limite de items mostrados.
+• Rutas protegidas.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
