@@ -1,11 +1,16 @@
 Link publico: https://crud-firestore-7d7b2.web.app/admin
 
 
-• CRUD desarrollado con Firebase.
+# CRUD desarrollado con React y Firebase.
+
 • Sistema de registro y autenticacion de usuarios.
+
 • Manejo de sesiones de usuario.
+
 • Recupero de contraseñas.
+
 • Limite de items mostrados.
+
 • Rutas protegidas.
 
 
